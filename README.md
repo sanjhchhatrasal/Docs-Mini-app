@@ -1,6 +1,4 @@
-Here's a README file draft for your Docs-Mini-app GitHub repository:
 
----
 
 # Docs Mini App 📄
 
@@ -68,5 +66,3 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 For questions or feedback, please contact me at [sanjhchhatrasal@gmail.com](mailto:sanjhchhatrasal@gmail.com) or connect with me on [LinkedIn]([https://www.linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/sanjh-chhatrasal-663b66262/?originalSubdomain=in)).
 
 ---
-
-Feel free to customize the content, add more sections, or include relevant images as needed for your Docs Mini App's README!
